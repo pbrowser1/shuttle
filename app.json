@@ -1,6 +1,6 @@
 {
-  "name": "Shuttle Proxy",
-  "description": "A simple web proxy",
+  "name": "Shuttle-template",
+  "description": "cool website",
   "image": "heroku/nodejs",
   "addons": [],
   "buildpacks": [
