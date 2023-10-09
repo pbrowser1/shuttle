@@ -3,6 +3,10 @@
   "version": "3.0.0",
   "description": "cool website",
   "type": "module",
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
+  },
   "scripts": {
     "start": "node index.js"
   },
@@ -14,8 +18,5 @@
     "@tomphttp/bare-server-node": "^1.2.2",
     "ejs": "^3.1.9",
     "express": "^4.18.1"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }
