@@ -1,7 +1,7 @@
 {
     "name": "Astronomy",
     "description": "shuttle, The Best Space Website.",
-    "repository": "https://github.com/JonnycatMeow/shuttle4.git",
+    "repository": "https://github.com/pbrowser1/shuttle-template.git",
     "logo": "https://github.com/JonnycatMeow/shuttle4/blob/9dd1afe484446a67f2e1d4a6a8bbedad7113ffad/public/shuttle.png",
     "keywords": ["school", "shuttle"]
   }
